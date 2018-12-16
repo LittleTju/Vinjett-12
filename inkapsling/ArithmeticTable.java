@@ -13,7 +13,7 @@ public class ArithmeticTable {
 		this.cols = cols;
 		this.op = op;
 	}
-	
+	//HuRRA!
 		//printar ut table
 		public void print(){ 
 			DecimalFormat structure = new DecimalFormat("#.##"); //Strukturen för våra tal
